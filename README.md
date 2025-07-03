@@ -1,7 +1,9 @@
 <h2 align="left">Yo, I'm Rehan Haxor 👾 — Security Junkie & Script Engineer based in Indonesia 🇮🇩</h2>
 
 # 💫 About Me:
-Saya adalah penggiat cybersecurity dan scripting yang suka ngulik sistem, protokol, dan bikin tools sendiri.<br><br>🔹 Fokus di automasi, API, dan socket  <br>🔹 Nyaman kerja di terminal & code editor  <br>🔹 Pakai Python, Node.js, dan Bash<br><br>Saat ini aktif bikin tools, eksperimen random, dan belajar hal baru setiap hari. ### <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Saya adalah penggiat cybersecurity dan scripting yang suka ngulik sistem, protokol, dan bikin tools sendiri.<br><br>🔹 Fokus di automasi, API, dan socket  <br>🔹 Nyaman kerja di terminal & code editor  <br>🔹 Pakai Python, Node.js, dan Bash<br><br>Saat ini aktif bikin tools, eksperimen random, dan belajar hal baru setiap hari.
+
+### <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ## 🌐 Socials:
